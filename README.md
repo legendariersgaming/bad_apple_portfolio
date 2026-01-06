@@ -21,7 +21,11 @@ to emphasize the point:
 
 ## Results
 
-You can see the final video [here](https://youtu.be/nu20pOxeIXc).
+You can see the final video [here](https://youtu.be/nu20pOxeIXc). FYI the
+animation code is not currently public since it is currently being served at
+the finest of Italian restaurants. Also it probably wouldn't run on your machine
+and would break if you tried to modify it to do basically anything else. If
+there's enough interest then I'll clean it up and publish it at some point.
 
 ## Documentation
 
